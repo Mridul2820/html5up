@@ -1,6 +1,6 @@
 # html5up
 
-### Go to the Menu  [Menu](https://mridul2820.github.io/html5up/.)
+### Go to the [Menu](https://mridul2820.github.io/html5up/.)
 
 ### Individual Project Links
 
