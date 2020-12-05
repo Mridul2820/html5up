@@ -2637,7 +2637,7 @@ input, select, textarea {
 			.feature .image img {
 				display: block;
 				min-height: 100%;
-				min-width: 100%;
+				width: 100%;
 				position: absolute;
 			}
 
