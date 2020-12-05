@@ -2140,6 +2140,31 @@ input, select, textarea {
 
 				}
 
+
+/* social */
+#social {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+#social ul{
+	list-style: none;
+	display: flex;
+}
+
+#social ul li{
+	margin: 0 8px;
+}
+
+#social ul li a{
+	text-decoration: none;
+	color: #000;
+	font-size: 25px;
+}
+
 /* Footer */
 
 	#footer {
